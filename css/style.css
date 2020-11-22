@@ -408,6 +408,7 @@ a.icon {
   background: #ffffff;
   border: 10px solid #f9f9f9;
   padding: 62px 20px 62px 20px;
+  
 }
 
 .header-one .header-thumb,
@@ -415,7 +416,7 @@ a.icon {
 .header-three .header-thumb,
 .header-four .header-thumb,
 .header-five .header-thumb {
-  padding: 32px 20px 32px 20px !important;
+  padding: 2px 20px 2px 20px !important;
 }
 
 .header-one, .header-two,
@@ -428,9 +429,10 @@ a.icon {
 
 .header-one {
   background: url('../images/header-bg.jpg') no-repeat;
-  height: 60vh !important;
-  min-height: 520px;
-  padding-top: 150px !important;
+  height: 50vh !important;
+  min-height: 500px;
+  padding-top: 50px !important;
+  
 }
 .header-two {
   background: url('../images/header-bg.jpg') no-repeat;
