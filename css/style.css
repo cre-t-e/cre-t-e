@@ -614,8 +614,8 @@ height: 50vh !important;
 /* about section styles
 /* ========================================== */
 #about {
-  padding-top: 5rem;
-  padding-bottom: 8rem;
+  padding-top: 0rem;
+  padding-bottom: 6rem;
 }
 
 #about .col-md-4 {
@@ -860,7 +860,7 @@ footer {
   .header-one, .header-two,
   .header-three, .header-four,
   .header-five {
-    min-height: 380px;
+    min-height: 320px;
 	padding-top: 80px !important;
   }
 
