@@ -36,7 +36,7 @@ h1,h2,h3,h4 {
 }
 
 h1 {
-  color: #000;
+  color:rgb(119, 119, 119);
   font-size: 1.8rem;
   font-weight: 700;
 
@@ -168,7 +168,7 @@ nav a {
 
 .brand {
   float: left;
-  padding: 30px 0 0;
+  padding: 0px 0 0;
   transition: all 0.3s ease;
   -webkit-transition: all 0.3s ease;
   -moz-transition: all 0.3s ease;
@@ -615,7 +615,7 @@ height: 50vh !important;
 /* ========================================== */
 #about {
   padding-top: 0rem;
-  padding-bottom: 6rem;
+  padding-bottom: 3rem;
 }
 
 #about .col-md-4 {
@@ -861,7 +861,7 @@ footer {
   .header-three, .header-four,
   .header-five {
     min-height: 320px;
-	padding-top: 80px !important;
+	padding-top: 60px !important;
   }
 
   #about .col-md-4,
